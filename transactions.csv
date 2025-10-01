@@ -1,0 +1,89 @@
+text,category
+Zomato order food,Food
+Swiggy #45322,Food
+Payment at Burger King,Food
+Starbucks coffee,Food
+McDonalds UPI,Food
+Lunch at local restaurant,Food
+Dinner bill at BBQ Nation,Food
+Cafe Coffee Day,Food
+Pizza Hut order,Food
+Behrouz Biryani,Food
+KFC chicken bucket,Food
+Uber Trip #C34A,Travel
+Ola cab ride,Travel
+Indigo flight 6E-234,Travel
+IRCTC rail ticket,Travel
+Fuel at HP Petrol Pump,Travel
+Pune Metro card top-up,Travel
+Redbus ticket to Mumbai,Travel
+Vistara airlines booking,Travel
+Auto rickshaw fare,Travel
+Expressway toll payment,Travel
+Rental car from Zoomcar,Travel
+Amazon.in purchase,Shopping
+Flipkart order,Shopping
+Myntra clothing haul,Shopping
+Purchase from H&M store,Shopping
+Decathlon sports gear,Shopping
+Croma electronics sale,Shopping
+IKEA home goods,Shopping
+FirstCry baby products,Shopping
+Nike shoes purchase,Shopping
+Lifestyle store bill,Shopping
+Vijay Sales appliance,Shopping
+Electricity Bill Payment,Bills & Utilities
+Airtel Postpaid Bill,Bills & Utilities
+Vodafone Idea Recharge,Bills & Utilities
+Jio Fiber monthly bill,Bills & Utilities
+Credit Card payment for HDFC,Bills & Utilities
+Gas cylinder booking Indane,Bills & Utilities
+Water bill municipal corp,Bills & Utilities
+Monthly rent transfer,Bills & Utilities
+Society maintenance fee,Bills & Utilities
+Tata Sky recharge,Bills & Utilities
+LIC premium payment,Bills & Utilities
+DMart groceries purchase,Groceries
+Reliance Fresh Mart,Groceries
+BigBasket online order,Groceries
+Nature's Basket items,Groceries
+Local vegetable market,Groceries
+Grofers daily items,Groceries
+More Supermarket,Groceries
+Milk delivery subscription,Groceries
+Meat and poultry shop,Groceries
+Online vegetables order,Groceries
+Daily provisions store,Groceries
+Apollo Pharmacy bill,Health
+Medplus Pharmacy,Health
+Doctor consultation fee,Health
+SRL Diagnostics lab test,Health
+Dental clinic payment,Health
+LensKart eye glasses,Health
+Himalaya wellness store,Health
+Online medicine 1mg,Health
+Hospital bill payment,Health
+Physiotherapy session,Health
+Annual health checkup,Health
+Netflix monthly subscription,Entertainment
+Amazon Prime Video,Entertainment
+Spotify Premium,Entertainment
+BookMyShow movie ticket,Entertainment
+PVR Cinemas snacks,Entertainment
+Steam game purchase,Entertainment
+Hotstar annual sub,Entertainment
+Concert ticket Insider.in,Entertainment
+Zee5 subscription,Entertainment
+YouTube Premium,Entertainment
+Gaming console purchase,Entertainment
+Donation to charity,Miscellaneous
+Gift sent to friend,Miscellaneous
+Bank service charges,Miscellaneous
+ATM Withdrawal fee,Miscellaneous
+Udemy course on Python,Miscellaneous
+Coursera subscription,Miscellaneous
+UPI transfer to Ram,Miscellaneous
+Investment in mutual fund,Miscellaneous
+Post office deposit,Miscellaneous
+Stock purchase Zerodha,Miscellaneous
+Return of borrowed money,Miscellaneous
